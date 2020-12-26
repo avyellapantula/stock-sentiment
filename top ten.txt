@@ -1,0 +1,89 @@
+ 1. Apple Inc. (AAPL)
+
+    Index Weighting: 6.4%
+    Market Cap ($B): 1,913.9
+    Revenue ($B) (4-Quarter Trailing): 274.5
+    Net Income ($B) (4-Quarter Trailing): 57.4
+    Place Change From Last Month: None
+
+Apple is a major producer of hardware and software products, primarily for the consumer market. Its most prominent product is the Apple iPhone brand, but Apple also produces other brands including Mac computers and iPad tablets. It also operates the Apple Music and Apple TV media distribution platforms.
+2. Microsoft Corp. (MSFT)
+
+    Index Weighting: 5.4%
+    Market Cap ($B): 1,620.0
+    Revenue ($B) (4-Quarter Trailing): 147.1
+    Net Income ($B) (4-Quarter Trailing): 47.5
+    Place Change From Last Month: None
+
+Microsoft is a computer hardware and software company that makes products for both personal and enterprise use. A major player in the tech industry for decades, Microsoft is best known for its Windows operating system, the Microsoft Office suite of programs, and the Xbox game system. The company also is a major player in cloud computing services with its cloud platform, Azure.
+3. Amazon.com Inc. (AMZN)
+
+    Index Weighting: 4.5%
+    Market Cap ($B): 1,348,814
+    Revenue ($B) (4-Quarter Trailing): 347.9
+    Net Income ($B) (4-Quarter Trailing): 17.4
+    Place Change From Last Month: None
+
+Amazon is an online retailer of all kinds of goods, but has increasingly diversified its business. It also has a major cloud-computing business known as Amazon Web Services (AWS), and runs the Whole Foods chain of brick-and-mortar grocery stores.
+
+4. Facebook Inc. (FB)
+
+    Index Weighting: 2.2%
+    Market Cap ($B): 665.9
+    Revenue ($B) (4-Quarter Trailing): 79.0
+    Net Income ($B) (4-Quarter Trailing): 25.3
+    Place Change From Last Month: None
+
+Facebook runs the dominant social networking platform, by far the largest in the world. It also owns photo-sharing app Instagram, messenger app WhatsApp, and virtual reality equipment maker Oculus. Facebook rose in the rankings as people spent more time on social media to keep in touch during quarantine.
+5. Alphabet Inc. Class A Shares (GOOGL)
+
+    Index Weighting: 1.8%
+    Market Cap ($B): 527.1
+    Revenue ($B) (4-Quarter Trailing): 171.7
+    Net Income ($B) (4-Quarter Trailing): 35.7
+    Place Change From Last Month: None
+
+Alphabet is the parent company of search-engine giant Google. Among its other products besides the Google search engine, Alphabet runs video sharing site YouTube. It's notable that the company splits its stock into two main share classes. Google's C shares are nonvoting shares, meaning they do not entitle the holder to participate in proxy votes. The A shares usually trade for slightly more than the C shares, and carry voting rights. Each of these shares trades on the S&P 500, and each is large enough, by itself, to make the top 10 list. If the two share classes were counted together, it would place Alphabet 4th on this list and would make up 3.6% of the index. There are also B shares, which have disproportionate voting rights and are only held by Google insiders. The B shares do not trade on the open market.
+6. Alphabet Inc. Class C Shares (GOOG)
+
+    Index Weighting: 1.7%
+    Market Cap ($B): 516.9
+    Revenue ($B) (4-Quarter Trailing): 171.7
+    Net Income ($B) (4-Quarter Trailing): 35.7
+    Place Change From Last Month: None
+
+(See above for company description.)
+7. Berkshire Hathaway Inc. (BRK.B)
+
+    Index Weighting: 1.5%
+    Market Cap ($B): 453.8
+    Revenue ($B) (4-Quarter Trailing): 279.2
+    Net Income ($B) (4-Quarter Trailing): 35.8
+    Place Change From Last Month: None
+
+Berkshire Hathaway is a holding company for the various investments Warren Buffett has made over the years. Among its numerous holdings are insurance businesses such as GEICO, large energy and utilities businesses, a major railroad, consumer brands such as ice cream store Dairy Queen, and manufacturers such as aerospace parts manufacturer Precision Castparts Corp. It also owns an enormous portfolio of equities, which is why Berkshire Hathaway notably fell several places in the rankings. Those equities took a huge hit when stocks dropped during the first quarter, absolutely crushing Berkshire's first-quarter profits, and dragging down the company's stock.
+8. Johnson & Johnson (JNJ)
+
+    Index Weighting: 1.3%
+    Market Cap ($B): 361.0
+    Revenue ($B) (4-Quarter Trailing): 80.9
+    Net Income ($B) (4-Quarter Trailing): 17.0
+    Place Change From Last Month: None
+
+Johnson and Johnson is a medical and consumer products conglomerate. Its main three businesses are pharmaceuticals (both over the counter and prescription), medical devices, and consumer hygiene and wellness products. The last category includes notable brands such as Band-Aid bandages, Listerine mouth wash, and Neutrogena skin care products.
+9. JPMorgan Chase & Co. (JPM)
+
+    Index Weighting: 1.2%
+    Market Cap ($B): 359.3
+    Revenue ($B) (4-Quarter Trailing): 118.9
+    Net Income ($B) (4-Quarter Trailing): 25.5
+    Place Change From Last Month: New addition, replacing Procter & Gamble (PG)
+
+JPMorgan is the largest U.S. bank. JPMorgan provides banking services to a wide range of clients. It provides banking services like mortgage lending, commercial banking services like business loans, investment banking services like bond underwriting, and asset and wealth management services.
+10. Visa Inc. (V)
+
+    Index Weighting: 1.2%
+    Market Cap ($B): 354.7
+    Revenue ($B) (4-Quarter Trailing): 21.9
+    Net Income ($B) (4-Quarter Trailing): 10.9
+    Place Change from last month: New addition, replacing Nvidia (NVDA)
